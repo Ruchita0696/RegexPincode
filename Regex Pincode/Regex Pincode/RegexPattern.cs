@@ -16,7 +16,7 @@ namespace Regex_Pincode
 
             if (matches == true)
             {
-                Console.WriteLine("Pncode is valid");
+                Console.WriteLine("Pincode is valid");
             }
             else
             {
