@@ -4,9 +4,10 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter pincode :");
-            long pin = Convert.ToInt64(Console.ReadLine());
-            RegexPattern.Pattern(pin);
+            //Console.Write("Enter PINCODE : ");
+            //long pin = Convert.ToInt64(Console.ReadLine());
+            //RegexPattern.Pattern(pin);
+            RegexPattern.Pattern("A40088");
 
         }
     }
